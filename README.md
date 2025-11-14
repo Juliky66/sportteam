@@ -84,6 +84,4 @@ go run ./server
 Перейди в браузере по адресу:
 [http://localhost:8080](http://localhost:8080)
 
-## Видео демонстрация
-
-[Смотреть видео на Google Drive](https://drive.google.com/...)
+![Интерфейс приложения](img/interf.png)
